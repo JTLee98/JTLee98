@@ -7,68 +7,73 @@
 ## Education
 
 ### BSc Honors Computing Science
-w/ [Certificate in Computer Game Development](https://www.ualberta.ca/media-technology-studies/programs/computer-game-development/index.html)
-
-*Sep 2021 - Apr 2024 (expected)*\
+*Sep 2021 - Apr 2024*\
 *University of Alberta (Edmonton)* 
 
+### Certificate in Computer Game Development ([more info here](https://www.ualberta.ca/media-technology-studies/programs/computer-game-development/index.html))
+*Sep 2022 - Apr 2024*\
+*University of Alberta (Edmonton)* 
+
+## Skills
+
+* Langauges: C/C++, Python, Java, C#, Assembly
+* Tools: Unity, Godot
+* Topics: Game Design & Production, Game AI, Procedural Generation & Animation, Software Engineering, Graphics, Algorithmics, Computer Architecture, Theory of Computation, Numerical Analysis, Advanced Math & Physics
 
 ## Projects
 
 \* course projects
 
-### INTD 450 Game*
+### Openly Incognito*
+*Jan 2024 - Apr 2024*
 
-*Jan 2024 - Apr 2024* \
-Production, Programming, Art, Music, Design
-
-* Description: point-and-click cRPG developed for INTD 450 at the University of Alberta.
-* link: TBA
+Narrative adventure game developed with Godot for [INTD 450](https://apps.ualberta.ca/catalogue/course/int_d/450) at the University of Alberta.
+ 
+* contributed to ideation and preproduction
+* oversaw production (scheduling, task allocation, coordination)
+* programmed gameplay, mechanics, and UI/UX with Godot Editor & GDScript
+* added sound effects and original music
+* helped with QA, polish, and release
 
 ### Peaceful Farming Brobot*
+*Sep 2023 - Dec 2023*
 
-*Sep 2023 - Dec 2023* \
-Programming, Design
+Starcraft 2 bot developed with SC2API in C++ for [CMPUT 350](https://apps.ualberta.ca/catalogue/course/cmput/350) at the University of Alberta.
 
-* Description: Starcraft 2 bot developed for CMPUT 350 at the University of Alberta.
-* link: private repository - request access via email
+*	programmed location and collection of resources across game map using a fast clustering algorithm
+*	worked in team of 4 to create a bot that executes an effective strategy to achieve victory
 
 ### Arcadia*
 
-*Sep 2022 - Dec 2022* \
-Production, Programming, Tech Art
+*Sep 2022 - Dec 2022* 
 
-* Description: Short point-and-click adventure game developed for [CMPUT 250](https://apps.ualberta.ca/catalogue/course/cmput/250) at the University of Alberta.
-* link: https://github.com/Retro-Muffins/Arcadia/
+Point-and-click adventure game developed with RPGMaker for [CMPUT 250](https://apps.ualberta.ca/catalogue/course/cmput/250) at the University of Alberta.
+( link: https://github.com/Retro-Muffins/Arcadia/ )
+
+*	oversaw production (scheduling, task allocation, coordination)
+*	tech art: imported art assets into the engine, converted art into tilesets and spritesheets, created simple animation & VFX
+*	contributed to gameplay programming
+
 
 ### QR Code Pursuit*
 
-*Jan 2022 - Apr 2022* \
-Design, Programming, UI/UX
+*Jan 2022 - Apr 2022* 
 
-* Description: Android application developed for [CMPUT 301](https://apps.ualberta.ca/catalogue/course/cmput/301) at the University of Alberta.
-* link: https://github.com/CMPUT301W22T33/QR-Code-Pursuit/
+Mobile application developed with Android NDK and Java for [CMPUT 301](https://apps.ualberta.ca/catalogue/course/cmput/301) at the University of Alberta.
+( link: https://github.com/CMPUT301W22T33/QR-Code-Pursuit/ )
 
-## Technical Experience
+*	Followed software principles e.g. MVC, OOP to design and develop fully featured application
+*	Contributed to Backend and UI/UX Design and Programming
 
-### Implementation of [Parallel Sort by Regular Sampling](https://www.sciencedirect.com/science/article/abs/pii/074373159290075X)
 
-Assignment for [CMPUT 481](https://apps.ualberta.ca/catalogue/course/cmput/481). Used C++ and pthreads to implement a multithreading version of the PSRS algorithm described in the paper.
+## Leadership / Volunteer Experience
 
-### Implementation of [Bird Flight Animation Model](https://dl.acm.org/doi/10.1145/882262.882360)
+  * [**SIGGRAPH 2022**](https://s2022.siggraph.org/) - Student Volunteer  
+    *Aug 2022*
+  * [**Edmontunes**](https://www.instagram.com/edmontunes) - President \
+    *Sep 2023 - Apr 2024*
 
-Course Project for [CMPUT 414](https://apps.ualberta.ca/catalogue/course/cmput/414). Used Unity C# to implement a procedural animation algorithm for bird flight described in the paper.
-
-## Skills
-
-* **C/C++**: moderate proficiency
-* **Python, Java, C#, OpenGL, Assembly, Unity, Godot**: basic proficiency
 
 ## Miscellaneous
 
 * Languages: Korean, English
-* Extracurricular Activites:
-  * [**SIGGRAPH 2022**](https://s2022.siggraph.org/) - Student Volunteer  
-    *Aug 2022*
-  * [**Edmontunes**](https://www.instagram.com/edmontunes) - President \
-    *Jan 2021 - Apr 2024*

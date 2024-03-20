@@ -1,7 +1,7 @@
 4th year in BSc Honors Computing Science, currently pursuing [Certificate in Computer Game Development](https://www.ualberta.ca/media-technology-studies/programs/computer-game-development/) at the University of Alberta.
 
 Interest areas: graphics, engine, tools, gameplay programming, optimization, C++ \
-Skills: C++, Unity, OpenGL, Python, Software Engineering, Maths and Physics
+Skills: C/C++, Godot, Unity, OpenGL, Python, Software Engineering, Maths and Physics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JTLee98&layout=donut)](https://github.com/JTLee98/)
 

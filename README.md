@@ -1,5 +1,4 @@
-Freshly graduated BSc Hons Computing Science w/ [Certificate in Computer Game Development](https://www.ualberta.ca/media-technology-studies/programs/computer-game-development/) at the University of Alberta. \
-Currently studying modern graphics APIs (OpenGL, Vulkan, DX12) and shader programming. \
+Client Developer at [ESTgames](https://estgames.com/) in Seoul, Korea
 
 Interest areas: graphics, engine, tools, gameplay programming, optimization, C++ \
 Skills: C/C++, Godot, Unity, OpenGL, Python, Software Engineering, Intermediate Maths and Physics

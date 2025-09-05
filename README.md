@@ -7,5 +7,6 @@ Skills: C/C++, Godot, Unity, OpenGL, Python, Software Engineering, Intermediate 
 
 - resume: [/resume.md](https://github.com/JTLee98/JTLee98/blob/2578e7615efa2f822c009b9ba7f1199fb9c61060/resume.md)
 - blog: jungtae.hashnode.dev
-- email: jungtae@ualberta.ca
+- personal email: jungtae@ualberta.ca
+- work email: leejungtae@estgames.com
 - linkedin: https://www.linkedin.com/in/jungtae-lee-ba1759248/
